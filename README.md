@@ -1,6 +1,6 @@
 # Hello there 👋
 
-## 👋 Hi there! I'm Sebastián Barroso Pérez
+## I'm Sebastián Barroso Pérez
 
 🎯 I'm an Actuary with 6 years of experience leading **data-driven strategies**, delivering automation solutions, dashboards, and advanced analytics that empower business decision-making.
 
