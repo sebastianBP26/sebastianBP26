@@ -1,6 +1,6 @@
 # Hello there 👋
 
-## I'm Sebastián Barroso Pérez
+## I'm Sebastian Barroso Perez
 
 🎯 I'm an Actuary with 6 years of experience leading **data-driven strategies**, delivering automation solutions, dashboards, and advanced analytics that empower business decision-making.
 
@@ -28,7 +28,7 @@
 
 ## 🛠️ Technical Skills
 
-- **Python** (7 years) 🐍
+- **Python** 🐍
 - **SQL** 🛢️
 - **Power BI** 📊
 - **Tableau** 📈
@@ -57,7 +57,6 @@
 ## 🔗 Links
 
 - 🌍 [GitHub Profile](https://github.com/sebastianBP26)
-- 📄 [UNAM Thesis (PDF)](https://tesiunam.dgb.unam.mx/F/LQVCGUQ9E75UK3JMACGM8ME7DSQBIM3B75VTL3YM5SXN24XKDF-50272?func=full-set-set&set_number=001506&set_entry=000117&format=999)
 - 📧 [Email Me](mailto:bpsebastian26@gmail.com)
 
 ---
