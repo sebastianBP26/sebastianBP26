@@ -57,6 +57,7 @@
 ## 🔗 Links
 
 - 🌍 [GitHub Profile](https://github.com/sebastianBP26)
+- [Google Badges](https://www.cloudskillsboost.google/public_profiles/a93c8b50-d2a1-4f48-9d2e-226a15ad462a)
 - 📧 [Email Me](mailto:bpsebastian26@gmail.com)
 
 ---
