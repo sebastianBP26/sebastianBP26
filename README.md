@@ -2,7 +2,7 @@
 
 ## I'm Sebastian Barroso Perez
 
-🎯 I'm an Actuary with 6 years of experience leading **data-driven strategies**, delivering automation solutions, dashboards, and advanced analytics that empower business decision-making.
+🎯 I'm an Actuary with 7+ years of experience leading **data-driven strategies**, delivering automation solutions, dashboards, and advanced analytics that empower business decision-making.
 
 ---
 
@@ -35,6 +35,7 @@
 - **Excel (Advanced)** 📗
 - **Google Cloud Platform (GCP)** ☁️
 - **Looker** 🔍
+- **JavaScript**
 
 ---
 
