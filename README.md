@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Sebastian Barroso Perez 👋</h1>
 
-<p align="center">
+<p align="left">
   <b>Strategist who uses data.</b><br>
   Actuary · 7+ years turning analytics into commercial decisions at Walmart México.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sebasti%C3%A1n-barroso-p%C3%A9rez-69a00716a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:bpsebastian26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.skills.google/public_profiles/a93c8b50-d2a1-4f48-9d2e-226a15ad462a"><img src="https://img.shields.io/badge/Google_Skills_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Skills Badges"></a>
@@ -58,27 +58,19 @@ I sit between product, business and data. My job is not to build dashboards — 
 
 ---
 
-### 📈 GitHub
+### 🔬 What I'm building
+
+| Project | What it is | Stack |
+|---|---|---|
+| **NFL Outcome Prediction Model** | Probabilistic model for game outcomes — feature engineering on historical play data, calibration and backtesting against the betting line. | `Python` `scikit-learn` `pandas` `statsmodels` |
+| **Academic Probability Dictionary** | Open reference on probability spaces and distributions: formal definitions, properties, and executable examples. | `Python` `Jupyter` `LaTeX` |
+
+> Both are actuarial thinking applied outside the office — uncertainty, calibration and honest error measurement.
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/sebastianBP26?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers">
   <img src="https://img.shields.io/github/stars/sebastianBP26?style=for-the-badge&logo=github&label=Stars&color=181717" alt="Stars">
   <img src="https://komarev.com/ghpvc/?username=sebastianBP26&style=for-the-badge&color=181717&label=Profile+views" alt="Profile views">
-</p>
-
-<p align="center">
-  <a href="https://github.com/sebastianBP26?tab=repositories">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=sebastianBP26&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=default" alt="GitHub stats">
-  </a>
-  <a href="https://github.com/sebastianBP26?tab=repositories">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianBP26&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&theme=default" alt="Top languages">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sebastianBP26">
-    <img src="https://streak-stats.demolab.com?user=sebastianBP26&hide_border=true" alt="Contribution streak">
-  </a>
 </p>
 
 ---
