@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastianbarrosoperez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sebastianbarrosoperez"><img src="https://www.linkedin.com/in/sebastián-barroso-pérez-69a00716a/" alt="LinkedIn"></a>
   <a href="mailto:bpsebastian26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/a93c8b50-d2a1-4f48-9d2e-226a15ad462a"><img src="https://img.shields.io/badge/Google_Cloud_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost"></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/a93c8b50-d2a1-4f48-9d2e-226a15ad462a"><img src="https://www.skills.google/public_profiles/a93c8b50-d2a1-4f48-9d2e-226a15ad462a" alt="Google Cloud Skills Boost"></a>
 </p>
 
 ---
